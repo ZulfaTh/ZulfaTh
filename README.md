@@ -36,7 +36,7 @@ Hi there! I'm Zulfa Munaf, an 3rd year IT undergraduate with a passion for softw
 
 ## 📫 Let's Connect!
 
-- **LinkedIn**: [Zulfa Munaf](www.linkedin.com/in/zulfamunaf/)
+- **LinkedIn**: [Zulfa Munaf](https://www.linkedin.com/in/zulfamunaf/)
 - **Email**: [zulfamunaf@gmail.com](mailto:zulfamunaf@gmail.com)
 
 Thanks for visiting my profile! I'm excited to connect and explore opportunities in software engineering. 😊
