@@ -34,9 +34,10 @@ Hi there! I'm Zulfa Munaf, an 3rd year IT undergraduate with a passion for softw
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   </a>
+
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a>
@@ -45,7 +46,18 @@ Hi there! I'm Zulfa Munaf, an 3rd year IT undergraduate with a passion for softw
   </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
   </a>
+   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+  </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+  </a>
 </p>
+
+
 
 
 
@@ -58,11 +70,20 @@ Hi there! I'm Zulfa Munaf, an 3rd year IT undergraduate with a passion for softw
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZulfaTh&show_icons=true&hide_border=true&count_private=true&theme=radical)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ZulfaTh&show_icons=true&hide_border=true&count_private=true&theme=radical" alt="Your GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZulfaTh&theme=radical&hide_border=true" alt="Your GitHub Streak" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZulfaTh&layout=compact&theme=radical&hide_border=true" alt="Your Top Languages" />
+    </td>
+  </tr>
+</table>
 
-![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZulfaTh&theme=radical&hide_border=true)
-
-![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZulfaTh&layout=compact&theme=radical&hide_border=true)
 
 ## 📫 Let's Connect!
 
