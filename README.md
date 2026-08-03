@@ -2,7 +2,7 @@
 
 # 💻 IT Undergraduate 
 
-Hi there! I'm Zulfa Munaf, an 3rd year IT undergraduate with a passion for software engineering. I'm eager to learn and grow in the field, and I'm currently seeking internship opportunities to gain real-world experience. My goal is to contribute to innovative projects and develop my skills as a full-stack developer.
+Hi there! I'm Zulfa Munaf, an Final year IT undergraduate with a passion for software engineering. I'm eager to learn and grow in the field, and I'm currently seeking  opportunities to gain real-world experience. My goal is to contribute to innovative projects and develop my skills as a full-stack developer.
 
 ## 🚀 Skills & Technologies
 
